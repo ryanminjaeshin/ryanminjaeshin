@@ -6,7 +6,6 @@
 - 👯 I’m looking for any opportunities that can grow skills and knowledge.
 - 🥅 2020 Goals: Make positive impacts and my life more meaningful utilizing my skills and experience.
 - ⚡ Fun fact: I love to play tennis🎾 and poker💰
-
 <br />
 
 ### Languages and Tools:
