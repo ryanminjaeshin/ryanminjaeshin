@@ -3,8 +3,8 @@
 ## I'm a Full-Stack Developer.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for any opportunities that can grow skills and knowledge.
-- 🥅 2020 Goals: Make positive impacts and my life more meaningful utilizing my skills and experience.
+- 👯 I’m looking for any opportunities that can grow my skill and knowledge.
+- 🥅 2020 Goals: Make positive impacts and my life more meaningful utilizing my skills and experiences.
 - ⚡ Fun fact: I love to play tennis🎾 and poker💰
 <br />
 
