@@ -1,11 +1,18 @@
 ### Hi there, I'm Ryan 🇰🇷🎾🇺🇸
 
-## I'm a Full-Stack Developer.
+## I'm a Full-Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for any opportunities that can grow my skill and knowledge.
 - 🥅 2020 Goals: Make positive impacts and my life more meaningful utilizing my skills and experiences.
 - ⚡ Fun fact: I love to play tennis🎾 and poker💰
+<br />
+
+## Portfolio
+
+- 🔪[Lego Web Application - Back End Engineer](https://github.com/testing-is-for-noobs/Lego-Web-Application-Back-End-Engineer-Gallery)       
+- 🏖[Zwilling Web Application - Full Stack Engineer](https://github.com/Seeds-of-Change/Zwilling-Web-Application-Full-Stack-Engineer-Produt-Info-Section)
+
 <br />
 
 ### Languages and Tools:
