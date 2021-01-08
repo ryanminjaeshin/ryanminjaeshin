@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for any opportunities that can grow my skill and knowledge.
-- 🥅 2020 Goals: Make positive impacts and my life more meaningful utilizing my skills and experiences.
+- 🥅 2021 Goals: Make positive impacts and my life more meaningful utilizing my skills and experiences.
 - ⚡ Fun fact: I love to play tennis🎾 and poker💰
 <br />
 
