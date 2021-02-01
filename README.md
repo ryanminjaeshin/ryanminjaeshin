@@ -1,4 +1,4 @@
-### Hi there, I'm Ryan 🇰🇷🎾🇺🇸
+### Hi there, I'm Ryan 🇰🇷 🎾 🇺🇸
 
 ## I'm a Full-Stack Developer
 
