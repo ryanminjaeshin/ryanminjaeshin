@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play tennis🎾 and poker💰
 <br />
 
-## Portfolio
+## Software Applications
 
 - 🔪[Lego Web Application - Back End Engineer](https://github.com/testing-is-for-noobs/Lego-Web-Application-Back-End-Engineer-Gallery) | PostgreSQL, Cassandra, Nginx, AWS EC2, Loader.io, New Relic, K6
 - 🏖[Zwilling Web Application - Full Stack Engineer](https://github.com/Seeds-of-Change/Zwilling-Web-Application-Full-Stack-Engineer-Produt-Info-Section) | Node.js, React, CSS Modules, Express, MongoDB, Docker, EC2
