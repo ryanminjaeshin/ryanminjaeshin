@@ -18,19 +18,31 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-CSS3-informational?style=plastic&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-Cassandra-informational?style=plastic&logo=cassandra&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-React-informational?style=plastic&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Express-informational?style=plastic&logo=express&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Webpack-informational?style=plastic&logo=webpack&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Babel-informational?style=plastic&logo=babel&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=postman&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-jQuery-informational?style=plastic&logo=jquery&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=plastic&logo=trello&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=plastic&logo=nginx&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=plastic&logo=amazon-aws&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=plastic&logo=jest&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Testing-Mocha-informational?style=plastic&logo=mocha&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Testing-New_Relic-informational?style=plastic&logo=new-relic&logoColor=white&color=blue)
+
+
 
 <br />
 <br />
