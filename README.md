@@ -52,4 +52,6 @@
 
 <img align="left" alt="ryanminjaeshin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryanminjaeshin&show_icons=true&hide_border=true" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanminjaeshin&theme=tokyonight_duo&hide_border=true&dates=black&stroke=white&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
