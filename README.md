@@ -10,7 +10,7 @@
 
 ## Software Applications
 
-- 🔮 [Lego Web Application - Back End Engineer](https://github.com/testing-is-for-noobs/Lego-Web-Application-Back-End-Engineer-Gallery) | PostgreSQL, Cassandra, Nginx, AWS EC2, Loader.io, New Relic, K6
+- 🔮 [Lego Web Application - Back End Engineer](https://github.com/testing-is-for-noobs/Lego-Web-Application-Back-End-Engineer-Gallery) | Node.js, PostgreSQL, Cassandra, Nginx, AWS EC2, Loader.io, New Relic, K6
 - 🔪 [Zwilling Web Application - Full Stack Engineer](https://github.com/Seeds-of-Change/Zwilling-Web-Application-Full-Stack-Engineer-Produt-Info-Section) | Node.js, React.js, CSS Modules, Express, MongoDB, Docker, EC2
 - 🌦 [Weather Web Application - Front End Engineer](https://ryanminjaeshin.github.io/weather_app_v3/) | Node.js, React.js, Hooks, Context, WeatherAPI
 
