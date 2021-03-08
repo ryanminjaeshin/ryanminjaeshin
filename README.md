@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer
 
-- 💫   Currently focusing on data structures, algorithms and full stack app development
+- 💫   Currently focusing on data structures, algorithms and full stack web development
 - 🌱   Looking for opportunities in work/projects that able me to contribute to **ESG** standards
 - 🥅   2021 Goals: Make positive impacts to the world and my life more meaningful utilizing my skills and experiences
 - ⚡    Fun fact: I love to play tennis🎾 and poker💰
