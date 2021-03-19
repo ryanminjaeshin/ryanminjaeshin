@@ -11,7 +11,7 @@
 ## Software Applications
 
 - 🔮 [Lego Web Application - Back End Engineer](https://github.com/testing-is-for-noobs/Lego-Web-Application-Back-End-Engineer-Gallery) | Node.js, PostgreSQL, Cassandra, Nginx, AWS EC2, Loader.io, New Relic, K6
-- 🔪 [Zwilling Web Application - Full Stack Engineer](https://github.com/Seeds-of-Change/Zwilling-Web-Application-Full-Stack-Engineer-Produt-Info-Section) | Node.js, React.js, CSS Modules, Express, MongoDB, Docker, EC2
+- 🔪 [Zwilling Web Application - Full Stack Engineer](https://github.com/Seeds-of-Change/Zwilling-Web-Application-Full-Stack-Engineer-Produt-Info-Section) | Node.js, React, CSS Modules, Express, MongoDB, Docker, AWS EC2 & S3
 - 🌦 [Weather Web Application - Front End Engineer](https://ryanminjaeshin.github.io/weather_app_v3/) | React.js, Hooks, Context, WeatherAPI
 
 <br />
