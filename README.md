@@ -20,12 +20,14 @@
 
 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Java-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=plastic&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-Cassandra-informational?style=plastic&logo=cassandra&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Spring-informational?style=plastic&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-React-informational?style=plastic&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Express-informational?style=plastic&logo=express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=blue)
