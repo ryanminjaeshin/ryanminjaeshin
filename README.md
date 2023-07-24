@@ -20,8 +20,8 @@
 
 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-Java-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Java-informational?style=plastic&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=plastic&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=blue)
